@@ -1,11 +1,15 @@
-# SpacebarRacecar Userspace
+# BjoernLudwigPTB Userspace
 
-The main purpose of this userspace is to keep my personal keymaps clean by moving shared code in here and also allowing me to easily change all my keymaps at once. However it also contains code that might be interesting to QMK Users living in Germany. Most of this code will be explained here.
+The main purpose of this userspace is to keep my personal keymaps clean by moving shared
+code in here and also allowing me to easily change all my keymaps at once. Of course we
+started this off from the files from spacebarracecar so the structure was given anyway.
 
+## Dvorak Layout Keys for German PCs
 
-## US Layout Keys for German PCs
-
-I'm using the US Ansi layout however I'm living in Germany which means that every PC here has its input language set to German. My goal was to create custom keycodes that emulate the US Keys so that I can plug my keyboards into any German PC and have them working without changing any settings.
+I'm using the Dvorak/Neo2 layout, however I'm living in Germany which means that every
+PC here has its input language set to German. My goal was to create custom keycodes that
+emulate the Dvorak keys so that I can plug my keyboards into any German PC and have them
+working without changing any settings.
 
 ### How to use
 

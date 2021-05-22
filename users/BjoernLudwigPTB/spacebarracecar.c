@@ -291,9 +291,9 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
     }
     return false;
   case CU_COMM:
-    SHIFT_NO(DE_COMM, DE_LESS)
+    SHIFT_NO(DE_COMM, DE_MINS)
   case CU_DOT:
-    SHIFT_NORM(DE_DOT, DE_LESS)
+    SHIFT_NO(DE_DOT, DE_SS)
   case CU_SLSH:
     SHIFT_ALL(DE_7, DE_SS)
   case CU_SCLN:
