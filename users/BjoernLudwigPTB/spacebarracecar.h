@@ -96,6 +96,7 @@ bool process_record_keymap(uint16_t keycode, keyrecord_t *record);
 
 #define TRDOT RALT(DE_DOT)
 #define LSLSH RALT(DE_MINS)
+#define CTRLS LCTL(KC_S)
 
 /*
 Templates for Keys, with custom shifted and non shifted Characters
