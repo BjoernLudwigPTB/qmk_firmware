@@ -1,6 +1,7 @@
 /*
 Copyright 2019 @foostan
 Copyright 2020 Drashna Jaelre <@drashna>
+Copyright 2021 Björn Ludwig <@BjoernLudwigPTB>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -23,7 +24,7 @@ Dvorak Neo2 available on common German PCs without changing settings.
 */
 
 #include QMK_KEYBOARD_H
-#include "spacebarracecar.h"
+#include "BjoernLudwigPTB.h"
 
 #define LOWER MO(_LOWER)
 #define RAISE MO(_RAISE)

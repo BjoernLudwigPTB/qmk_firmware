@@ -3,6 +3,8 @@
 The main purpose of this userspace is to keep my personal keymaps clean by moving shared
 code in here and also allowing me to easily change all my keymaps at once. Of course we
 started this off from the files from spacebarracecar so the structure was given anyway.
+Everything what follows was taken from his or her user space and simply copied over.
+Thanks @spacebarracecar for providing such an excellent starting point!
 
 ## Dvorak Layout Keys for German PCs
 
